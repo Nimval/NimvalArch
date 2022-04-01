@@ -4,6 +4,7 @@ An Arch Install Script i designed for my personal installs but u can fell free t
 Run Via
 
 - pacman -Sy git
+- git clone https://github.com/Nimval/NimvalArch
 - cd NimvalArch
 - ./NimvalArch.sh
 
