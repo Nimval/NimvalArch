@@ -3,9 +3,9 @@ An Arch Install Script i designed for my personal installs but u can fell free t
 
 Run Via
 
-pacman -Sy git
-cd NimvalArch
-./NimvalArch.sh
+- pacman -Sy git
+- cd NimvalArch
+- ./NimvalArch.sh
 
 Credits:-
 - Arch Install Script By : Nimval Harman
