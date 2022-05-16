@@ -9,9 +9,9 @@ If you don't want to build using this script I did create an image @ <https://ww
 From initial Prompt type the following commands:
 ```
 pacman -Sy git
-git clone https://github.com/ChrisTitusTech/ArchTitus
-cd ArchTitus
-./archtitus.sh
+git clone https://github.com/Nimval/NimvalArch
+cd NimvalArch
+./NimvalArch.sh
 ```
 
 ## System Discription
