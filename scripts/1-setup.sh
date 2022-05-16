@@ -170,7 +170,7 @@ if [ $(whoami) = "root"  ]; then
 
 	cp -R $HOME/NimvalArch /home/$USERNAME/
     chown -R $USERNAME: /home/$USERNAME/NimvalArch
-    echo "ArchTitus copied to home directory"
+    echo "NimvalArch copied to home directory"
 
 # enter $NAME_OF_MACHINE to /etc/hostname
 	echo $NAME_OF_MACHINE > /etc/hostname
