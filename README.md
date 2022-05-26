@@ -10,6 +10,7 @@ From initial Prompt type the following commands:
 pacman -Sy git
 git clone https://github.com/Nimval/NimvalArch
 cd NimvalArch
+chmod +x NimvalArch.sh
 ./NimvalArch.sh
 ```
 
